@@ -1,0 +1,24 @@
+# Dependencies
+/vendor/
+/composer.lock
+
+# Cache
+/.phpunit.cache/
+/.phpunit.coverage/
+/.phpstan.cache/
+/.php-cs-fixer.cache
+
+# IDE
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
